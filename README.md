@@ -3,7 +3,7 @@
 # CANNY EDGE DETECTION
 </div>
 
-Canny edge detection is a image processing method used to detect edges in an image while suppressing noise. The main steps are as follows:
+Canny edge detection is an image processing method used to detect edges in an image while suppressing noise. The main steps are as follows:
 
 1. Grayscale Conversion
 Convert the image to grayscale
